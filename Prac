@@ -1,0 +1,8 @@
+#Using npx
+npx create-react-app app-name
+
+#Using npm init <initializer>
+npm init react-app app-name
+
+#Using yarn 0.25+
+yarn create react-app app-name
